@@ -1,6 +1,0 @@
-@HandonApiApplication_HostAddress = http://localhost:5181
-
-GET {{HandonApiApplication_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
